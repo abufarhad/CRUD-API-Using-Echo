@@ -1,4 +1,4 @@
-# CRUD-API-Using-Echo
+# CRUD-API-Using-Golang
 ## Run Locally
 ```
 go run main.go 
